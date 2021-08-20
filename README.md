@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bernaaax
+- 👋 Hi, I’m @bernaaax 
 - 👀 I’m interested in all aspects
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on this project
